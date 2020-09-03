@@ -13,3 +13,7 @@ end
 def pop_with_args(array)
   p array.pop(2)
 end
+
+def using_shift(array)
+  p array.shift
+end
